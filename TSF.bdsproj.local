@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2009-01-17 01:05:25.609.pas,D:\Gry\Moje dokumenty\Borland Studio Projects\Unit1.pas=D:\Gry\Moje dokumenty\Borland Studio Projects\Test Sprawności Fizycznej\Unit1.pas</Transaction>
+    <Transaction>2009-01-17 01:05:25.609.dfm,D:\Gry\Moje dokumenty\Borland Studio Projects\Unit1.dfm=D:\Gry\Moje dokumenty\Borland Studio Projects\Test Sprawności Fizycznej\Unit1.dfm</Transaction>
+    <Transaction>2009-01-17 01:05:50.187.bdsproj,D:\Gry\Moje dokumenty\Borland Studio Projects\Project1.bdsproj=D:\Gry\Moje dokumenty\Borland Studio Projects\Test Sprawności Fizycznej\TSF.bdsproj</Transaction>
+    <Transaction>2009-01-20 22:30:59.765.pas,D:\Gry\Moje dokumenty\Borland Studio Projects\Test Sprawności Fizycznej\Unit3.pas=D:\Gry\Moje dokumenty\Borland Studio Projects\Test Sprawności Fizycznej\UnitLiczPunkty.pas</Transaction>
+  </Transactions>
+</BorlandProject>
